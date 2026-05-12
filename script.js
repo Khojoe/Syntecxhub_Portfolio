@@ -1,3 +1,6 @@
+/* ─── DYNAMIC FOOTER YEAR ─── */
+document.getElementById("year").textContent = new Date().getFullYear();
+
 /* ─── MOBILE NAV TOGGLE ─── */
 function toggleMenu() {
   document.getElementById("navLinks").classList.toggle("open");
