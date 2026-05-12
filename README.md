@@ -22,7 +22,8 @@ This is a clean, modern single-page portfolio website built using **HTML and CSS
 ```
 Syntecxhub_Portfolio/
 │
-└── index.html       # Single HTML file (contains all HTML, CSS & JS)
+└── index.html
+├── style.css
 ```
 
 ---
@@ -122,7 +123,7 @@ To personalize this portfolio, update the following in `portfolio.html`:
 
 ## 👤 Author
 
-**Immanuel Oheneba Debe**
+**Immanuel Oheneba**
 Frontend Developer & CS Student
 📧 immanueldebe@gmail.com
 🔗 [GitHub](<[#](https://github.com/Khojoe)>) · [LinkedIn](in/immanuel-oheneba-debe-352ab0367)
