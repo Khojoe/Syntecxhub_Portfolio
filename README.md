@@ -13,7 +13,9 @@ This is a clean, modern single-page portfolio website built using **HTML and CSS
 
 ## 🚀 Live Demo
 
-> Open `index.html` in any browser to view the site locally.
+**Live Link:** [https://immanuel-debe.vercel.app](https://immanuel-debe.vercel.app)
+
+> Or open `index.html` in any browser to view the site locally.
 
 ---
 
@@ -21,9 +23,11 @@ This is a clean, modern single-page portfolio website built using **HTML and CSS
 
 ```
 Syntecxhub_Portfolio/
-│
-└── index.html
+├── index.html
 ├── style.css
+├── script.js
+├── README.md
+└── LICENSE
 ```
 
 ---
