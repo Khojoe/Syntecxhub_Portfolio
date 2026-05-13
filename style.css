@@ -266,7 +266,7 @@ section {
   width: 100%;
   aspect-ratio: 1;
   max-width: 360px;
-  border-radius: 20px;
+  border-radius: 50%;
   background: linear-gradient(
     135deg,
     rgba(109, 247, 193, 0.15),
